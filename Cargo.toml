@@ -1,0 +1,4 @@
+[package]
+name = "rust-dining-philosophers"
+version = "0.1.0"
+authors = ["Bayu Aldi Yansyah <bayualdiyansyah@gmail.com>"]
